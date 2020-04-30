@@ -70,3 +70,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 
 This template was taken from colorlib for learning purpose only.
+https://colorlib.com/preview/#appco
