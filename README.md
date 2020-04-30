@@ -1,2 +1,4 @@
 # Ismailwgt16.github.io
-Template source Colorlib
+Sample React project.
+Template source Colorlib.
+For learning purpose only. 
