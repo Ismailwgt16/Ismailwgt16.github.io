@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.205f77d5.chunk.css",
+    "main.js": "/static/js/main.c3b02e3f.chunk.js",
+    "main.js.map": "/static/js/main.c3b02e3f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.6de9ba6a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.6de9ba6a.js.map",
+    "static/css/2.bcb3354c.chunk.css": "/static/css/2.bcb3354c.chunk.css",
+    "static/js/2.152b1177.chunk.js": "/static/js/2.152b1177.chunk.js",
+    "static/js/2.152b1177.chunk.js.map": "/static/js/2.152b1177.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.87499a1774445228bfc499f54c51eea9.js": "/precache-manifest.87499a1774445228bfc499f54c51eea9.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.bcb3354c.chunk.css.map": "/static/css/2.bcb3354c.chunk.css.map",
+    "static/css/main.205f77d5.chunk.css.map": "/static/css/main.205f77d5.chunk.css.map",
+    "static/js/2.152b1177.chunk.js.LICENSE.txt": "/static/js/2.152b1177.chunk.js.LICENSE.txt",
+    "static/media/App1.webp": "/static/media/App1.2821ca9b.webp",
+    "static/media/App2.webp": "/static/media/App2.330c3c7a.webp",
+    "static/media/App3.webp": "/static/media/App3.1dba1dcf.webp",
+    "static/media/app_btn1.webp": "/static/media/app_btn1.101d87d0.webp",
+    "static/media/app_btn2.webp": "/static/media/app_btn2.cd94cf96.webp",
+    "static/media/available-app.webp": "/static/media/available-app.bcce8e37.webp",
+    "static/media/best-features.webp": "/static/media/best-features.cb831d84.webp",
+    "static/media/App.css": "/static/media/dot-bg.8f1d5923.webp",
+    "static/media/hero_right.webp": "/static/media/hero_right.53fe1e4e.webp",
+    "static/media/logo.webp": "/static/media/logo.c70a19f2.webp",
+    "static/media/man1.webp": "/static/media/man1.6f13793b.webp",
+    "static/media/man2.webp": "/static/media/man2.1b75c3d5.webp",
+    "static/media/man3.webp": "/static/media/man3.601445e6.webp",
+    "static/media/say-shape-left.webp": "/static/media/say-shape-left.740bb8a1.webp",
+    "static/media/say-shape-right.webp": "/static/media/say-shape-right.6d271484.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6de9ba6a.js",
+    "static/css/2.bcb3354c.chunk.css",
+    "static/js/2.152b1177.chunk.js",
+    "static/css/main.205f77d5.chunk.css",
+    "static/js/main.c3b02e3f.chunk.js"
+  ]
+}
